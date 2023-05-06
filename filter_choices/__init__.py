@@ -1,4 +1,4 @@
-from .Filter_Choices import Filters
+from .filter_choices import Filters
 
 __author__ = 'Miles Adedjouma, Jamar Bailey III, Darnell Love'
 __email__ = 'N/A'

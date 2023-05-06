@@ -2,7 +2,7 @@ from Filter_Choices.filter_choices import Filters, valstrax.png
 
 __author__ = 'Miles Adedjouma, Jamar Bailey III, Darnell Love'
 __email__ = 'darnell.love@bison.howard.edu'
-__version__ = '1.0.0'
+__version__ = '0.1.0'
 
 # module level doc-string
 __doc__ = """

@@ -2,7 +2,7 @@
 	"username": "darnell-love27,
 	"package": "Filter_Choices",
 	"git": "github",
-	"install": False,
-	"clean": True,
-	"initFile": "filter_choices/__init__.py"
+	"install": false,
+	"clean": true,
+	"initFile": "Filter_Choices/filter_choices/__init__.py"
 }

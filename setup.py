@@ -21,8 +21,8 @@ setuptools.setup(
      author="Miles, Jamar,Darnell",                                     # Author name
      author_email="N/A ",                           # Author mail
      description="Python package for my CSIII prject",    # Short package description
-    url="https://github.com/JamarB3/Filter_Options/",       # Url to your Git Repo
-     download_url = 'https://github.com/JamarB3/Filter_Options//archive/'+new_version+'.tar.gz',
+    url="https://github.com/darnell-love27/Filter_Choices",       # Url to your Git Repo
+     download_url = 'https://github.com/darnell-love27/Filter_Choices.git',
      packages=setuptools.find_packages(),                     # Searches throughout all dirs for files to include
      include_package_data=True,                               # Must be true to include files depicted in MANIFEST.in
      license_files=["LICENSE"],                               # License file

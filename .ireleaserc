@@ -1,0 +1,8 @@
+{
+	"username": "darnell-love27,
+	"package": "Filter_Choices",
+	"git": "github",
+	"install": true,
+	"clean": true,
+	"initFile": "filter_choices/__init__.py"
+}

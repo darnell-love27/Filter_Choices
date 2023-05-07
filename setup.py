@@ -22,8 +22,6 @@ setuptools.setup(
      author_email="N/A ",                           # Author mail
      description="Python package for my CSIII prject",    # Short package description
     url="https://github.com/darnell-love27/Filter_Choices",       # Url to your Git Repo
-     download_url = 'https://github.com/darnell-love27/Filter_Choices.git/archive/' +
-  new_version + '.tar.gz',
      packages=setuptools.find_packages(),                     # Searches throughout all dirs for files to include
      include_package_data=True,                               # Must be true to include files depicted in MANIFEST.in
      license_files=["LICENSE"],                               # License file
